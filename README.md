@@ -10,5 +10,5 @@ Indonesia National Agency for Disaster Countermeasure. Link : https://data.jakar
 Temuan Menarik  
 1. Jakarta yang dikenal sangat sering untuk terjadi banjir, ternyata malah memiliki persentase yang lebih besar untuk hari tidak terjadi banjir
 2. Curah hujan di Jakarta pada tahun 2016-2018 ternyata menurut statistika setengah dari 6308 harinya, kota tersebut tidak mengalami hujan sama sekali
-3. Dataset yang memiliki judul "Climate and Flood Jakarta 2016 -2020", ternyata malah hanya memiliki data hingga 31 Desember 2018
+3. Dataset yang memiliki judul "Climate and Flood Jakarta 2016 -2020", ternyata malah hanya memiliki data hingga 31 Desember 2018  
 Link Kaggle : https://www.kaggle.com/datasets/christopherrichardc/climate-and-flood-jakarta/data
