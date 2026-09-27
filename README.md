@@ -1,4 +1,4 @@
-Judul Analisis : Climate and Flood Jakarta ( Iklim dan Banjir Jakarta )  
+Judul Analisis : Analisis Eksplorasi Data (EDA) tentang Karakteristik Cuaca dan Kejadian Banjir Jakarta Tahun 2016 - 2018  
 Nama dan NRP Anggota Kelompok :   
 Darrell Theodore Ang Nitbani - 5027261048  
 Rayhana Muthia Hanin - 5027261084    
